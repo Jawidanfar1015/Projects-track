@@ -22,7 +22,8 @@
 
   * As you open the application you will see the following screen.
 
-  
+  <img width="1235" alt="Projects Track" src="https://user-images.githubusercontent.com/99248057/168680293-bb9c74ee-5607-4b8f-be7c-40c7fe4f4f34.png">
+
 
   * Click on Add Project button to add your project.
 
